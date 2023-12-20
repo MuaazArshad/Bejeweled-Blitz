@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(320,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(321,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(330,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(331,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(340,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(341,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(350,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(351,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(367,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(387,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(387,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(391,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(391,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(405,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Jewel Swaper\main.cpp(405,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Jewel Swaper.vcxproj -> C:\Users\DELL\Desktop\muaaz\game\Jewel Swaper1\Debug\Jewel Swaper.exe
